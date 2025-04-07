@@ -30,7 +30,7 @@ This repository is organized by course modules and project folders. Each folder 
 1.  Clone the repository: `git clone https://github.com/kajbr88/The-Complete-Flutter-Development-Bootcamp-with-Dart.git'
 2.  Navigate to the project directory: `cd https://github.com/kajbr88/The-Complete-Flutter-Development-Bootcamp-with-Dart.git'
 3.  Select project folder: e.g. bitcoin_ticker
-4.  Navigate to the app directory: cd bitcoin_ticker
+4.  Navigate to the app directory: 'cd bitcoin_ticker'
 5.  Run `flutter pub get` to install dependencies.
 6.  Connect a physical device or start an emulator.
 7.  Run `flutter run` to launch the application.
