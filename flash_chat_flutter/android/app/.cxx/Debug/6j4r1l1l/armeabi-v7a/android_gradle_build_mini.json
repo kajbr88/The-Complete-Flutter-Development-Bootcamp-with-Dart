@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\src\\flutter_windows_3.29.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\abhkb\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\abhkb\\Desktop\\flash_chat_flutter\\flash_chat_flutter\\android\\app\\.cxx\\Debug\\6j4r1l1l\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\abhkb\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\abhkb\\Desktop\\flash_chat_flutter\\flash_chat_flutter\\android\\app\\.cxx\\Debug\\6j4r1l1l\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

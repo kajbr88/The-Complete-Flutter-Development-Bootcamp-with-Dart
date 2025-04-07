@@ -1,0 +1,2 @@
+C:/Users/abhkb/Desktop/Angela flutter 2/Latest/mi_card_flutter/android/app/.cxx/Debug/f1q2w3q4/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/abhkb/Desktop/Angela flutter 2/Latest/mi_card_flutter/android/app/.cxx/Debug/f1q2w3q4/x86_64/CMakeFiles/rebuild_cache.dir
